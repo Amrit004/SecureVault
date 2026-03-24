@@ -13,6 +13,8 @@
 
 </div>
 
+![SecureVault Screenshot](screenshot.png)
+
 ---
 
 A real-time cloud security monitoring dashboard simulating an AWS Security Operations Center. Built with vanilla HTML, CSS, and JavaScript — no dependencies.
